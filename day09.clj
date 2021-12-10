@@ -47,7 +47,7 @@
 (def part2
   (->> low-points
        (map measure)
-      sort
-      (take-last 3)
-      (apply *)))
+       sort
+       (take-last 3)
+       (apply *)))
 ;; => 1600104
