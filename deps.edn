@@ -1,2 +1,3 @@
 {:deps
- {org.clojure/clojure {:mvn/version "1.11.0-alpha3"}}}
+ {org.clojure/clojure {:mvn/version "1.11.0-alpha3"}
+  org.clojure/core.match {:mvn/version "1.0.0"}}}
